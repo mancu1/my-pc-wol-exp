@@ -8,6 +8,7 @@
     ],
     "target": "es6",
     "module": "commonjs",
+//    "exclude": ["node_modules", "webpack.prod.config.js"],
     /* Projects */
     // "incremental": true,                              /* Enable incremental compilation */
     // "composite": true,                                /* Enable constraints that allow a TypeScript project to be used with project references. */
